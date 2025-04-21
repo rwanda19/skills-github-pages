@@ -52,3 +52,19 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+
+💻 Tech Stack:
+JavaScript Heroku
+
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rwanda19 &theme=merko&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Rwanda19 &theme=merko&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rwanda19 &theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rwanda19 &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://visitcount.itsvg.in/api?id=Rwanda19 &icon=0&color=0)
